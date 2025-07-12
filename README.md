@@ -20,3 +20,9 @@ Uma interface de tela de login moderna e estilosa, responsiva e com animações 
 - Design minimalista e elegante
 
 ## 📁 Estrutura do Projeto
+glass-login-ui/
+├── index.html
+├── assets/
+│ ├── style.css
+│ └── img/
+│ └── img.png
