@@ -1,6 +1,8 @@
 # Tela de Login Responsiva
 
-Uma interface de tela de login moderna e estilosa, responsiva e com animações sutis. Ideal para aplicações web que querem causar uma ótima primeira impressão. Pretendo usar modelos parecidos para futuros projetos
+Uma interface de login moderna, estilosa e responsiva, com animações sutis e um visual clean. Ideal para aplicações web que buscam causar uma ótima primeira impressão. Pretendo usar esse estilo como base para futuros projetos, mantendo uma identidade visual consistente e profissional.
+
+
 
 ![preview](./assets/img/preview.png)
 
